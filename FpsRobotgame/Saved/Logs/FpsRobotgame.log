@@ -296,3 +296,499 @@ LogInit: Object subsystem initialized
 [2018.04.18-12.45.34:227][471]SourceControl:   (use "git add <file>..." to include in what will be committed)
 [2018.04.18-12.45.34:227][471]SourceControl: 	FpsRobotgame/
 [2018.04.18-12.45.34:227][471]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.18-12.46.31:177][808]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.18-12.46.31:298][808]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Idle.fbx)
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Model, ItemCount : 7
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: AnimationCurveNode, ItemCount : 30
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: AnimationCurve, ItemCount : 60
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Deformer, ItemCount : 7
+[2018.04.18-12.46.31:311][808]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.18-12.46.31:317][808]LogFbx: Loading FBX Scene from ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Idle.fbx
+[2018.04.18-12.46.31:342][808]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.18-12.46.33:538][808]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Move.fbx)
+[2018.04.18-12.46.38:201][932]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Idle.fbx)
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Model, ItemCount : 7
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: AnimationCurveNode, ItemCount : 30
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: AnimationCurve, ItemCount : 60
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Deformer, ItemCount : 7
+[2018.04.18-12.46.38:210][932]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.18-12.46.38:215][932]LogFbx: Loading FBX Scene from ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Idle.fbx
+[2018.04.18-12.46.38:232][932]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.18-12.46.49:532][932]LogFbx: Loading FBX Scene from ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Idle.fbx
+[2018.04.18-12.46.49:552][932]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.18-12.46.49:552][932]LogFbx: =================================================
+[2018.04.18-12.46.49:552][932]LogFbx: Dumping Node START [Flybot] 
+[2018.04.18-12.46.49:552][932]LogFbx: 	Total Deformer Count -1652348384.
+[2018.04.18-12.46.49:552][932]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.18-12.46.49:552][932]LogFbx: =================================================
+[2018.04.18-12.46.49:552][932]LogFbx: 	Attribute () Type (4).
+[2018.04.18-12.46.49:552][932]LogFbx: 		[Node Attribute Child 1] Flybot (Type Mesh).
+[2018.04.18-12.46.49:552][932]LogFbx: Dumping Node END [Flybot]
+[2018.04.18-12.46.49:552][932]LogFbx: =================================================
+[2018.04.18-12.46.49:552][932]LogFbx: Dumping Node START [Flybot] 
+[2018.04.18-12.46.49:552][932]LogFbx: 	Total Deformer Count -1652343904.
+[2018.04.18-12.46.49:552][932]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.18-12.46.49:552][932]LogFbx: =================================================
+[2018.04.18-12.46.49:552][932]LogFbx: 	Attribute () Type (4).
+[2018.04.18-12.46.49:552][932]LogFbx: 		[Node Attribute Child 1] Flybot (Type Mesh).
+[2018.04.18-12.46.49:552][932]LogFbx: Dumping Node END [Flybot]
+[2018.04.18-12.46.49:555][932]LogFbx: Valid bind pose for Pose (skinCluster1) - Flybot
+[2018.04.18-12.46.49:558][932]LogLinker: Can't find file '/Game/Characters/Flybot/lambert2'
+[2018.04.18-12.46.49:558][932]LogLinker: Can't find file '/Game/Characters/Flybot/lambert2'
+[2018.04.18-12.46.49:559][932]LogMaterial: Warning: Material /Game/Characters/Flybot/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.18-12.46.49:562][932]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.18-12.46.49:634][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Diffuse'
+[2018.04.18-12.46.49:634][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Diffuse'
+[2018.04.18-12.46.49:681][932]LogTexture: Display: Building textures: Flybot_Diffuse (AutoDXT, 1080X1080)
+[2018.04.18-12.46.49:883][932]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.18-12.46.49:927][932]LogFbx: Triangulating skeletal mesh Flybot
+[2018.04.18-12.46.50:000][932]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 5
+[2018.04.18-12.46.50:025][932]LogSkeletalMesh: Section 0: 604 vertices, 3 active bones
+[2018.04.18-12.46.50:026][932]LogSkeletalMesh: Section 0: Material=0, 792 triangles
+[2018.04.18-12.46.50:028][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_Skeleton'
+[2018.04.18-12.46.50:028][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_Skeleton'
+[2018.04.18-12.46.50:031][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_PhysicsAsset'
+[2018.04.18-12.46.50:031][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_PhysicsAsset'
+[2018.04.18-12.46.50:038][932]LogFbx: =================================================
+[2018.04.18-12.46.50:038][932]LogFbx: Dumping Node START [Flybot] 
+[2018.04.18-12.46.50:039][932]LogFbx: 	Total Deformer Count -1669153944.
+[2018.04.18-12.46.50:039][932]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.18-12.46.50:039][932]LogFbx: =================================================
+[2018.04.18-12.46.50:039][932]LogFbx: 	Attribute () Type (4).
+[2018.04.18-12.46.50:039][932]LogFbx: 		[Node Attribute Child 1] Flybot (Type Mesh).
+[2018.04.18-12.46.50:039][932]LogFbx: Dumping Node END [Flybot]
+[2018.04.18-12.46.50:039][932]LogFbx: =================================================
+[2018.04.18-12.46.50:039][932]LogFbx: Dumping Node START [Flybot] 
+[2018.04.18-12.46.50:039][932]LogFbx: 	Total Deformer Count -1669153888.
+[2018.04.18-12.46.50:039][932]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.18-12.46.50:039][932]LogFbx: =================================================
+[2018.04.18-12.46.50:039][932]LogFbx: 	Attribute () Type (4).
+[2018.04.18-12.46.50:039][932]LogFbx: 		[Node Attribute Child 1] Flybot (Type Mesh).
+[2018.04.18-12.46.50:039][932]LogFbx: Dumping Node END [Flybot]
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(0) ROOT
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(1) Bottom
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(2) Body
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(3) Propellar1
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(4) Propellar2
+[2018.04.18-12.46.50:039][932]LogFbx: SortedLinks :(5) Jaw
+[2018.04.18-12.46.50:039][932]LogFbx: Parsing AnimStack Take 001
+[2018.04.18-12.46.50:041][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_Anim'
+[2018.04.18-12.46.50:042][932]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Idle_Anim'
+[2018.04.18-12.46.50:047][932]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.18-12.46.50:082][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Flybot/Flybot_Idle_Anim.Flybot_Idle_Anim
+[2018.04.18-12.46.50:090][932]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.18-12.47.00:865][530]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-12.47.00:884][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-12.47.00:884][530]PIE: New page: PIE session: Main (19 Apr 2018 8:47:00 am)
+[2018.04.18-12.47.00:885][530]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.18-12.47.00:887][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2018.04.18-12.47.00:888][530]LogAIModule: Creating AISystem for world Main
+[2018.04.18-12.47.00:888][530]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.04.18-12.47.00:888][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003829s)
+[2018.04.18-12.47.00:904][530]LogInit: XAudio2 using 'Hörlurar på headset (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.18-12.47.00:915][530]LogInit: FAudioDevice initialized.
+[2018.04.18-12.47.00:949][530]LogLoad: Game class is 'FPSGamemode_C'
+[2018.04.18-12.47.00:953][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.18-22.47.00
+[2018.04.18-12.47.00:953][530]LogWorld: Bringing up level for play took: 0.002039
+[2018.04.18-12.47.00:954][530]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.139
+[2018.04.18-12.47.04:203][719]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Flybot_Idle_Anim)
+[2018.04.18-12.47.04:983][765]Cmd: DELETE
+[2018.04.18-12.47.04:983][765]Cmd: ACTOR DELETE
+[2018.04.18-12.47.04:984][765]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.18-12.47.04:993][765]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.04.18-12.47.09:318][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Move.fbx)
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: NodeAttribute, ItemCount : 7
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: Model, ItemCount : 7
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: AnimationCurveNode, ItemCount : 35
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.04.18-12.47.09:325][891]LogFbx: ItemName: AnimationCurve, ItemCount : 70
+[2018.04.18-12.47.09:330][891]LogFbx: Loading FBX Scene from ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Move.fbx
+[2018.04.18-12.47.09:345][891]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.18-12.47.16:812][891]LogFbx: Loading FBX Scene from ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/Assets/Models/Flybot/Animations/Flybot_Move.fbx
+[2018.04.18-12.47.16:829][891]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.18-12.47.16:829][891]LogFbx: SortedLinks :(0) ROOT
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(1) Bottom
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(2) Body
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(3) Propellar1
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(4) Propellar2
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(5) Jaw
+[2018.04.18-12.47.16:830][891]LogFbx: SortedLinks :(6) Jaw2
+[2018.04.18-12.47.16:830][891]LogFbx: Parsing AnimStack Take 001
+[2018.04.18-12.47.16:832][891]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Move'
+[2018.04.18-12.47.16:832][891]LogLinker: Can't find file '/Game/Characters/Flybot/Flybot_Move'
+[2018.04.18-12.47.16:855][891]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Flybot/Flybot_Move.Flybot_Move
+[2018.04.18-12.47.16:863][891]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Flybot_Idle_Skeleton.  Any animation on these bones will not be imported: 
+
+ Jaw2  
+ 
+[2018.04.18-12.47.25:872][425]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-12.47.25:885][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-12.47.25:885][425]PIE: New page: PIE session: Main (19 Apr 2018 8:47:25 am)
+[2018.04.18-12.47.25:885][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.18-12.47.25:887][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2018.04.18-12.47.25:888][425]LogAIModule: Creating AISystem for world Main
+[2018.04.18-12.47.25:888][425]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.04.18-12.47.25:888][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003345s)
+[2018.04.18-12.47.25:904][425]LogInit: XAudio2 using 'Hörlurar på headset (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.18-12.47.25:914][425]LogInit: FAudioDevice initialized.
+[2018.04.18-12.47.25:951][425]LogLoad: Game class is 'FPSGamemode_C'
+[2018.04.18-12.47.25:953][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.18-22.47.25
+[2018.04.18-12.47.25:954][425]LogWorld: Bringing up level for play took: 0.001586
+[2018.04.18-12.47.25:955][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.86
+[2018.04.18-12.47.33:104][848]Cmd: DELETE
+[2018.04.18-12.47.33:104][848]Cmd: ACTOR DELETE
+[2018.04.18-12.47.33:105][848]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.18-12.47.33:122][848]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.04.18-12.47.55:610][197]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.04.18-12.48.03:742][197]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.04.18-12.48.03:819][197]SourceControl: On branch master
+[2018.04.18-12.48.03:819][197]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.04.18-12.48.03:819][197]SourceControl: Changes not staged for commit:
+[2018.04.18-12.48.03:819][197]SourceControl: 	modified:   FpsRobotgame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.18-12.48.03:819][197]SourceControl: 	modified:   FpsRobotgame/Saved/Config/Windows/Engine.ini
+[2018.04.18-12.48.03:819][197]SourceControl: 	modified:   FpsRobotgame/Saved/Logs/FpsRobotgame.log
+[2018.04.18-12.48.03:819][197]SourceControl: Untracked files:
+[2018.04.18-12.48.03:819][197]SourceControl: 	FpsRobotgame/Saved/Config/Windows/SourceControlSettings.ini
+[2018.04.18-12.48.03:819][197]SourceControl: 	FpsRobotgame/Saved/Logs/Git-TempB48B584F40CE35E5938A8194D8FBFC60.txt
+[2018.04.18-12.48.03:819][197]SourceControl: no changes added to commit
+[2018.04.18-12.48.03:829][197]SourceControl: Commited On branch master.
+[2018.04.18-12.48.08:527][469]LogSavePackage: Save=23.58ms
+[2018.04.18-12.48.08:527][469]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Main2943F69F46012881F776A8A7E947D77B.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Maps/Main.umap'
+[2018.04.18-12.48.08:532][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Maps/Main.umap
+[2018.04.18-12.48.08:661][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.04.18-12.48.08:676][469]LogSavePackage: Save=11.88ms
+[2018.04.18-12.48.08:676][469]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Main_BuiltData11E8645C433D9F19C98EDE9EBBEF496C.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Maps/Main_BuiltData.uasset'
+[2018.04.18-12.48.08:678][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Maps/Main_BuiltData.uasset
+[2018.04.18-12.49.00:832][783]LogGameProjectGeneration: Verbose: 'C:/Program Files (x86)/Epic Games/UE_4.17/Templates/TP_ThirdPersonBP/Media/TP_ThirdPersonBP.png': Skipping as it is in an ignored folder 'Media'
+[2018.04.18-12.49.00:832][783]LogGameProjectGeneration: Verbose: 'C:/Program Files (x86)/Epic Games/UE_4.17/Templates/TP_ThirdPersonBP/Media/TP_ThirdPersonBP_Preview.png': Skipping as it is in an ignored folder 'Media'
+[2018.04.18-12.49.01:013][784]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.04.18-12.49.02:649][784]LogSavePackage: Save=86.84ms
+[2018.04.18-12.49.02:650][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Diffuse12336CAA4FEF2AFEC88415BD5A6CF303.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Diffuse.uasset'
+[2018.04.18-12.49.02:654][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Diffuse.uasset
+[2018.04.18-12.49.02:909][784]LogSavePackage: Save=13.02ms
+[2018.04.18-12.49.02:910][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Idle94FCE348452ED0A01CF11293313774ED.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle.uasset'
+[2018.04.18-12.49.02:912][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle.uasset
+[2018.04.18-12.49.03:171][784]LogSavePackage: Save=12.44ms
+[2018.04.18-12.49.03:171][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Idle_AnimC849CD6F48BCC51B59881C9914D3AAF4.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_Anim.uasset'
+[2018.04.18-12.49.03:174][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_Anim.uasset
+[2018.04.18-12.49.03:386][784]LogSavePackage: Save=4.10ms
+[2018.04.18-12.49.03:386][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Idle_PhysicsAsset50ED218D40079E15E15C888018A1E32A.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_PhysicsAsset.uasset'
+[2018.04.18-12.49.03:391][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_PhysicsAsset.uasset
+[2018.04.18-12.49.03:602][784]LogSavePackage: Save=1.64ms
+[2018.04.18-12.49.03:602][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Idle_Skeleton6D9AABA7459A9312518780B65D4B215A.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_Skeleton.uasset'
+[2018.04.18-12.49.03:606][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Idle_Skeleton.uasset
+[2018.04.18-12.49.03:828][784]LogSavePackage: Save=12.11ms
+[2018.04.18-12.49.03:828][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Flybot_Move180468E043B3B8C9512104A1C849FF77.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Move.uasset'
+[2018.04.18-12.49.03:832][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/Flybot_Move.uasset
+[2018.04.18-12.49.04:110][784]LogSavePackage: Save=27.05ms
+[2018.04.18-12.49.04:110][784]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/lambert24995249246956334192E179529772083.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/lambert2.uasset'
+[2018.04.18-12.49.04:116][784]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Characters/Flybot/lambert2.uasset
+[2018.04.18-12.49.04:413][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.18-12.49.04:414][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.18-12.49.04:629][785]Cmd: QUIT_EDITOR
+[2018.04.18-12.49.05:381][785]LogExit: Preparing to exit.
+[2018.04.18-12.49.06:010][785]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/' was aborted.
+[2018.04.18-12.49.06:028][785]LogExit: Editor shut down
+[2018.04.18-12.49.06:034][785]LogExit: Transaction tracking system shut down
+[2018.04.18-12.49.06:174][785]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.18-12.49.06:174][785]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/' was aborted.
+[2018.04.18-12.49.06:174][785]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.18-12.49.06:174][785]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.18-12.49.06:174][785]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.18-12.49.06:230][785]LogExit: Object subsystem successfully closed.
+[2018.04.18-12.49.06:248][785]LogD3D11RHI: Shutdown
+[2018.04.18-12.49.06:248][785]LogD3D11RHI: CleanupD3DDevice
+[2018.04.18-12.49.06:348][785]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.18-12.49.06:374][785]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2018.04.18-12.49.06:374][785]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2018.04.18-12.49.06:374][785]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.04.18-12.49.06:374][785]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.04.18-12.49.06:374][785]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.04.18-12.49.06:376][785]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Collections/' was aborted.
+[2018.04.18-12.49.06:376][785]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Content/Developers/VictorWeidar/Collections/' was aborted.
+[2018.04.18-12.49.06:376][785]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Scrapbot/FpsRobotgame/FpsRobotgame/Saved/Collections/' was aborted.
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (520)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.04.18-12.49.06:376][785]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.04.18-12.49.06:377][785]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.04.18-12.49.07:244][785]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.04.18-12.49.07:245][785]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.04.18-12.49.07:297][785]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.04.18-12.49.07:298][785]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.04.18-12.49.07:299][785]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.04.18-12.49.07:299][785]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.04.18-12.49.07:299][785]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.04.18-12.49.07:439][785]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.04.18-12.49.07:440][785]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.04.18-12.49.07:441][785]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.04.18-12.49.07:441][785]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.04.18-12.49.07:442][785]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.04.18-12.49.07:442][785]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.04.18-12.49.07:442][785]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.04.18-12.49.07:442][785]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.04.18-12.49.07:442][785]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.04.18-12.49.07:443][785]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.04.18-12.49.07:543][785]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.04.18-12.49.07:643][785]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.04.18-12.49.07:645][785]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.04.18-12.49.07:645][785]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.04.18-12.49.07:645][785]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.04.18-12.49.07:645][785]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.04.18-12.49.07:657][785]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.04.18-12.49.07:658][785]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.04.18-12.49.07:662][785]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.04.18-12.49.07:663][785]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.04.18-12.49.07:743][785]LogDerivedDataCache: Shutdown
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.04.18-12.49.07:743][785]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.18-12.49.07:744][785]LogOnline: Display: Unloading online subsystem: NULL
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.18-12.49.07:744][785]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.18-12.49.07:744][785]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.18-12.49.07:744][785]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B00A45F47-4E59-8577-3E6D-89995C8F9413%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=52c09b674ff570e465a91c84e5b3e90a%7C576142a7ce4e41a4a4c4bf69e2f1ce98%7C644e0ae4-f221-42dd-b828-8b6eaba0659c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.18-12.49.07:753][785]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.18-12.49.07:754][785]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.18-12.49.07:755][785]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.18-12.49.07:756][785]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.18-12.49.07:761][785]LogExit: Exiting.
+[2018.04.18-12.49.07:771][785]Log file closed, 04/18/18 22:49:07
